@@ -75,8 +75,6 @@ nodemon
 
 
 Contributing
-
 Pull requests are welcome. For major changes,
-
 Thank you!!
 
