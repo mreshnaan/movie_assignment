@@ -8,8 +8,10 @@ is a full stack application user can login and register Add movie
 #Getting Started
 What things you need to install the software
 
-NPM - npm is a package manager for the JavaScript programming language. It is the default package manager for the JavaScript runtime environment Node.js.
-Node.js - Node.js is an open-source, cross-platform JavaScript run-time environment that executes JavaScript code outside of a browser.
+	
+*NPM - npm is a package manager for the JavaScript programming language. It is the default package manager for the JavaScript runtime environment Node.js.
+	
+*Node.js - Node.js is an open-source, cross-platform JavaScript run-time environment that executes JavaScript code outside of a browser.
 
 
 ### Installation
@@ -37,9 +39,10 @@ npm start
 
 ### Technologies
 
-Materialize -  an open-source project that features React components that implement Google’s Material Design
-React Js- React is a JavaScript library for building user interfaces. It is maintained by Facebook and a community of individual developers and companies.
-Axios -  promise-based HTTP client that works both in the browser and in a Node.js environment.
+	
+*Materialize -  an open-source project that features React components that implement Google’s Material Design
+*React Js- React is a JavaScript library for building user interfaces. It is maintained by Facebook and a community of individual developers and companies.	
+*Axios -  promise-based HTTP client that works both in the browser and in a Node.js environment.
 
 ##  Back end
 
