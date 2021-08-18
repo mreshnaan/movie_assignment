@@ -2,7 +2,7 @@
 
 ##  Front end
 
-is a full stack application user can login and register.user can add movie
+is a full stack application user can login and register Add movie
 
 
 #Getting Started
