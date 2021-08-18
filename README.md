@@ -73,7 +73,6 @@ nodemon
   http://localhost:8080/movie
 ```
 
-
 Contributing
 Pull requests are welcome. For major changes,
 Thank you!!
