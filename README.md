@@ -45,9 +45,38 @@ npm start
  - Axios -  promise-based HTTP client that works both in the browser and in a Node.js environment.
 
 ##  Back end
+Admin can crud movies and users
 
+### Installation
+
+```sh
+npm install
+nodemon
+```
+# Modules used
+###  Dependencies
+
+```sh
+    "@types/bcrypt": "^5.0.0",
+    "@types/cors": "^2.8.12",
+    "@types/dotenv": "^8.2.0",
+    "@types/express": "^4.17.13",
+    "@types/jsonwebtoken": "^8.5.4",
+    "@types/mongoose": "^5.11.97",
+    "typescript": "^4.3.5"
+```
+
+### Usage endpoints
+
+```sh
+  http://localhost:8080/user
+  http://localhost:8080/movie
+```
 
 
 Contributing
+
 Pull requests are welcome. For major changes,
+
 Thank you!!
+
