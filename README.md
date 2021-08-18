@@ -9,9 +9,9 @@ is a full stack application user can login and register Add movie
 What things you need to install the software
 
 	
-*NPM - npm is a package manager for the JavaScript programming language. It is the default package manager for the JavaScript runtime environment Node.js.
+- NPM - npm is a package manager for the JavaScript programming language. It is the default package manager for the JavaScript runtime environment Node.js.
 	
-*Node.js - Node.js is an open-source, cross-platform JavaScript run-time environment that executes JavaScript code outside of a browser.
+- Node.js - Node.js is an open-source, cross-platform JavaScript run-time environment that executes JavaScript code outside of a browser.
 
 
 ### Installation
