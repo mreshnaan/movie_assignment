@@ -102,6 +102,17 @@ nodemon
 
 ```
 
+### Technologies
+
+	
+ - TypeScript -  TypeScript is designed for the development of large applications and transcompiles to JavaScript. As TypeScript is a superset of JavaScript.
+ - Mongoose - Mongoose is an Object Data Modeling (ODM) library for MongoDB and Node.js. It manages relationships between data, provides schema validation,.
+ - Expressjs -  Express is a minimal and flexible Node.js web application framework that provides a robust set of features to develop web and mobile applications. 
+ - dotenv - Dotenv is a zero-dependency module that loads environment variables from a.env file into process.env. 
+ - Cors - an HTTP -header based mechanism that allows a server to indicate any other origin s (domain, scheme, or port) than its own from which a browser should permit loading of 		resources.
+ - bcrypt - bcrypt is a password-hashing function
+ 
+ 
 Contributing
 Pull requests are welcome. For major changes,
 Thank you!!
