@@ -40,9 +40,9 @@ npm start
 ### Technologies
 
 	
-*Materialize -  an open-source project that features React components that implement Google’s Material Design
-*React Js- React is a JavaScript library for building user interfaces. It is maintained by Facebook and a community of individual developers and companies.	
-*Axios -  promise-based HTTP client that works both in the browser and in a Node.js environment.
+ - Materialize -  an open-source project that features React components that implement Google’s Material Design
+ - React Js- React is a JavaScript library for building user interfaces. It is maintained by Facebook and a community of individual developers and companies.	
+ - Axios -  promise-based HTTP client that works both in the browser and in a Node.js environment.
 
 ##  Back end
 
