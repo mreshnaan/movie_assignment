@@ -73,6 +73,35 @@ nodemon
   http://localhost:8080/movie
 ```
 
+### body
+```sh
+{
+  
+    "name":"The Tomorrow War",
+    "imageURL":"https://upload.wikimedia.org/wikipedia/en/6/60/The_Tomorrow_War_%282021_film%29_official_theatrical_poster.jpg"
+}
+
+```
+
+### Response
+```sh
+{
+    "status": "Success",
+    "statusCode": 201,
+    "data": {
+        "_id": "611d7c1770723f5adcfea2dd",
+        "name": "The Tomorrow War",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/en/6/60/The_Tomorrow_War_%282021_film%29_official_theatrical_poster.jpg",
+        "createdBy": "611aaf3c20a7f916fc777942",
+        "createdAt": "2021-08-18T21:31:03.546Z",
+        "updatedAt": "2021-08-18T21:31:03.546Z",
+        "__v": 0
+    },
+    "message": "Movie Data Successfuly Inseted"
+}
+
+```
+
 Contributing
 Pull requests are welcome. For major changes,
 Thank you!!
