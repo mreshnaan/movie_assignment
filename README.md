@@ -45,7 +45,7 @@ npm start
  - Axios -  promise-based HTTP client that works both in the browser and in a Node.js environment.
 
 ##  Back end
-Admin can crud movies and users
+in backend can crud movies and users
 
 ### Installation
 
